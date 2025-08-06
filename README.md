@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @developerjonas
-- 👀 I’m interested in playing with codes
-- 🌱 I’m currently learning python along with c++
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there, I'm @developerjonas
+
+Welcome to my corner of the internet where I explore code, ideas, and curiosity-driven projects.
+
+- 🔗 Check out my main site: [developerjonas.com](https://developerjonas.com)
+- 🧪 Dive into my personal experiments and notes: [Lab Notes](https://developerjonas.com/lab-notes)
+
+---
+
+- 👀 I love exploring the intersection of code, physics, and innovation.
+- 🌱 Currently learning Python and diving deeper into C++.
+- 🤝 Open to collaborating on meaningful, impactful projects.
+- 📬 Reach me via email: [developerjonas@gmail.com](mailto:developerjonas@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I believe every problem has a beautiful, elegant solution—hidden just beneath the surface.
+
+---
+
+_This `README.md` appears on my GitHub profile. You can click the "Preview" button above to see it in action._
 
 <!---
-developerjonas/developerjonas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+developerjonas/developerjonas is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
