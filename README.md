@@ -10,7 +10,7 @@ Welcome to my corner of the internet where I explore code, ideas, and curiosity-
 - 👀 I love exploring the intersection of code, physics, and innovation.
 - 🌱 Currently learning Python and diving deeper into C++.
 - 🤝 Open to collaborating on meaningful, impactful projects.
-- 📬 Reach me via email: [developerjonas@gmail.com](mailto:developerjonas@gmail.com)
+- 📬 Reach me via email: [hi@developerjonas.com](mailto:hi+github@developerjonas.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I believe every problem has a beautiful, elegant solution—hidden just beneath the surface.
 
