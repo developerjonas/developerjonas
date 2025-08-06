@@ -16,8 +16,6 @@ Welcome to my corner of the internet where I explore code, ideas, and curiosity-
 
 ---
 
-_This `README.md` appears on my GitHub profile. You can click the "Preview" button above to see it in action._
-
 <!---
 developerjonas/developerjonas is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
