@@ -3,7 +3,7 @@
 Welcome to my corner of the internet where I explore code, ideas, and curiosity-driven projects.
 
 - 🔗 Check out my main site: [developerjonas.com](https://developerjonas.com)
-- 🧪 Dive into my personal experiments and notes: [Lab Notes](https://developerjonas.com/lab-notes)
+- 🧪 Dive into my personal experiments and notes: [Lab Notes](https://labnotes.developerjonas.com)
 
 ---
 
