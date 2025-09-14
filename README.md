@@ -2,15 +2,15 @@
 
 Welcome to my corner of the internet where I explore code, ideas, and curiosity-driven projects.
 
-- 🔗 Check out my main site: [developerjonas.com](https://developerjonas.com)
-- 🧪 Dive into my personal experiments and notes: [Lab Notes](https://labnotes.developerjonas.com)
+- 🔗 Check out my main site:** [developerjonas.com](https://developerjonas.com) **
+- 🧪 Dive into my personal **experiments** and notes:** [Lab Notes](https://labnotes.developerjonas.com) **
 
 ---
 
-- 👀 I love exploring the intersection of code, physics, and innovation.
+- 👀 I love **exploring** the intersection of **code**, **physics**, and **innovation**.
 - 🌱 Currently learning **Nest** and diving deeper into **RUST**.
-- 🤝 Open to collaborating on meaningful, impactful projects.
-- 📬 Reach me via email: [hi@developerjonas.com](mailto:hi+github@developerjonas.com)
+- 🤝 Open to collaborating on **meaningful**, **impactful** projects.
+- 📬 Reach me via email:** [hi@developerjonas.com](mailto:hi+github@developerjonas.com) **
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: **I believe every problem has a beautiful, elegant solution—hidden just beneath the surface**.
 
