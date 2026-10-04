@@ -1,17 +1,31 @@
-# 👋 Hi there, I'm @developerjonas
+# ☕ Namaste, I'm Jonas
 
-Welcome to my corner of the internet where I explore code, ideas, and curiosity-driven projects.
+Developer from Kathmandu. I build products the way a good *chiya* gets made: slow boil, strong base, a little masala.
 
-- 🔗 Check out my main site: [developerjonas.com](https://developerjonas.com)
-- 🧪 Dive into my personal **experiments** and notes: [Lab Notes](https://labnotes.developerjonas.com) 
+🌐 [developerjonas.com](https://developerjonas.com) · 🧪 [Lab Notes](https://labnotes.developerjonas.com) · 📬 [hi@developerjonas.com](mailto:hi+github@developerjonas.com)
+
+---
+
+### 🫖 Brewing right now
+
+- **[Chiyali](#)** — helping Nepali tutors get paid by their learners
+
+### 🍪 What goes with my chiya
+
+- Code, physics, and the overlap between them
+- Turning ideas into systems and businesses, not just side scripts
+- Learning **NestJS** and going deeper into **Rust**
+
+### 🛠️ Usual tools
+
+`TypeScript` · `Next.js` · `React Native` · `Postgres` · `NestJS` · `Rust`
 
 ---
 
-- 👀 I love **exploring** the intersection of **code**, **physics**, and **innovation**.
-- 🌱 Currently learning **Nest** and diving deeper into **RUST**.
-- 🤝 Open to collaborating on **meaningful**, **impactful** projects.
-- 📬 Reach me via email: [hi@developerjonas.com](mailto:hi+github@developerjonas.com) 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: **I believe every problem has a beautiful, elegant solution—hidden just beneath the surface**.
+### 🪑 Pull up a stool
 
----
+Got an idea worth a cup of chiya? I'm open to collaborating on things that actually ship and actually matter. Drop a line at [hi@developerjonas.com](mailto:hi+github@developerjonas.com).
+
+> *Every problem has an elegant solution. Sometimes you just need a second cup to see it.*
+
+<sub>he/him · Kathmandu, Nepal 🇳🇵</sub>
