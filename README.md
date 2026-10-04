@@ -8,7 +8,7 @@ Developer from Kathmandu. I build products the way a good *chiya* gets made: slo
 
 ### 🫖 Brewing right now
 
-- **[Chiyali](#)** — helping Nepali tutors get paid by their learners
+- **[Chiyali](https://www.chiyali.com)** — helping Nepali tutors get paid by their learners
 
 ### 🍪 What goes with my chiya
 
